@@ -2,7 +2,9 @@
 
 # Project – Click Counter
 
-This is a solution to a challenge at the DCI (Digital Career Institute). The challenges help you improve your programming skills by creating realistic projects. This task was about creating a currency converter using the Coinbase API.
+This is a solution to a challenge with a Udemy Javascript course. This task is about creating a click counter
+
+
 
 
 ## Table of contents
